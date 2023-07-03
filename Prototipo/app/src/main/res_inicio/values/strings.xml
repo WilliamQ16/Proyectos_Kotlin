@@ -1,0 +1,109 @@
+<resources>
+    <!--Items Circulares-->
+    <string name="inicio_tienda">Tienda CBA</string>
+    <string name="inicio_contenido">Contenido</string>
+    <string name="inicio_informacion">Información</string>
+    <string name="inicio_centro">Conoce nuestro centro</string>
+    <!--Destacados-->
+    <string name="titulo_d1">¡Atención! 🔔</string>
+    <string name="d1">
+        Te invitamos a participar de las distintas \n
+        charlas informativas presenciales correspondientes \n
+        a los programas de formación de nuestro centro. 👩🏽‍💻🙋🏻‍♀️ \n
+        ¡Te esperamos!
+    </string>
+    <string name="titulo_d2">Llego tu momento para formarte con el SENA✍🏼📚</string>
+    <string name="d2">
+        ➡️💻Inscríbete desde el 25 de mayo al 1 de junio \n
+        al programa de formación de tu preferencia, conoce \n
+        los programas disponibles que tiene el Centro de \n
+        Biotecnología Agropecuaria de Mosquera en esta \n
+        publicación.
+        👩🏽‍💻Estos son los pasos para inscribirse:\n
+        ➡️Ingresar a:  http://oferta.senasofiaplus.edu.co\n
+        /sofia-oferta/\n
+        1) Si la persona ya está registrada, debe ingresar \n
+        los datos para iniciar el proceso de inscripción.\n
+        2) Si no está registrada, debe dar clic en \n
+        “Registrarse” y seguir los pasos.\n
+        3) Tan pronto esté el registro se debe ingresar a \n
+        la plataforma y seleccionar: Aspirante Registro, \n
+        Registro Persona y Documentos. Allí se carga el
+        documento.\n
+        4) 🚨Importante: el documento original escaneado \n
+        debe estar en PDF (formato vertical) y el archivo \n
+        debe tener un tamaño de hasta 2 Mb\n
+        5) Ubicar el recuadro de la parte inferior \n
+        izquierda “¿Qué le gustaría estudiar?” y \n
+        seleccionar el nivel de formación \n
+        (operario, auxiliar, profundización \n
+        técnica, especialización tecnológica, \n
+        técnico o tecnólogo).\n
+        6) Escribir una palabra clave (Cocina, por ejemplo), \n
+        la ciudad en la que desea estudiar y dar clic en \n
+        “Buscar”. Allí aparecen todos los datos del programa \n
+        de formación.\n
+        7) Para el registro o inscripción a un programa de \n
+        formación de cualquier nivel, se requiere cargar el \n
+        documento de identidad vigente en la plataforma \n
+        SOFIA Plus.\n
+        😎 También se puede utilizar la línea gratuita en \n
+        Bogotá llamando al (601) 3430111 y para el \n
+        resto del país 018000-910-270.\n
+    </string>
+    <string name="titulo_d3">Rendición de cuentas</string>
+    <string name="d3">
+        #SENARindeCuentas 💯📣 Ingresa a 📲 cutt.ly/QVBAxAL \n
+        y participa diligenciando la encuesta de Percepción \n
+        Ciudadana, queremos conocer los temas que te gustaría \n
+        que la Entidad trate en la Audiencia Pública de \n
+        Rendición de Cuentas 2022🙋🏻‍♂️ 👩‍💻\n
+    </string>
+    <!--Noticias-->
+    <string name="titulo_n1">¿Que esperas para formarte con el SENA? 📚💁🏻‍♀️</string>
+    <string name="n1">
+        🚨Ampliamos la fecha de inscripción hasta el 4 de junio. \n
+        💻Recuerda inscribirte en: www.senasofiaplus.edu.co \n
+        Conoce los programas disponibles ⬇️ \n
+        ¡No pierdas esta oportunidad!
+    </string>
+    <string name="titulo_n2">Ustedes son el orgullo de Colombia 🇨🇴.</string>
+    <string name="n2">
+        Con su trabajo 🚜 hacen de nuestro país una nación \n
+        próspera y bien alimentada 🥙. \n
+        Festejemos el Día de la Campesina y el Campesino \n
+        👩🏻‍🌾🧑🏼‍🌾👨🏾‍🌾 #CampeSENADeCorazón
+    </string>
+    <string name="titulo_n3">Celebremos juntos el Día Nacional del Campesino 👨🏼‍🌾👩🏻‍🌾</string>
+    <string name="n3">
+        Reconocemos la importante labor que realizan a \n
+        diario nuestros campesinos, por eso les invitamos \n
+        a que participen de las actividades que \n
+        realizaremos entorno a este importante día. \n
+        🫱🏼‍🫲🏽  #CampeSENA\n
+        Conoce más información ⬇️
+    </string>
+    <string name="titulo_n4">⚙️🖥️¿Cómo hacer que tu empresa u organización \ntenga mentalidad TIC? \n¡Te ayudamos con eso! </string>
+    <string name="n4">
+        🙋‍♀️🖱️Súmate a #MiPymeSeTransforma, una \n
+        estrategia del SENA para que tu empresa \n
+        cuente con asistencia técnica virtual durante \n
+        un periodo.\n
+        ✍️Inscríbete hasta el 04 de junio \n
+        Conoce más aquí 👉 https://bit.ly/mipymes2023 \n
+        Inscríbete aquí👉  https://forms.office.com/r/yQ6wBRm27G \n
+    </string>
+    <string name="titulo_n5">¡Atención! 🔔 \nLlego tu momento para formarte con el SENA✍🏼📚</string>
+    <string name="n5">
+        ➡️💻Inscríbete desde el 25 de mayo al 1 de junio al \n
+        programa de formación de tu preferencia en \n
+        www.senasofiaplus.edu.co\n
+        ¡No pierdas esta oportunidad!
+    </string>
+    <!--Eventos-->
+    <string name="evento">Eventos</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="destacado">Lo más destacado</string>
+    <string name="noticia">Anuncios</string>
+</resources>

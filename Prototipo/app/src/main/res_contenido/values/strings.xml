@@ -1,0 +1,79 @@
+<resources>
+    <!--Quienes Somos-->
+    <string name="titulo_qs">Quiénes somos</string>
+    <string name="qs">
+        Somos un establecimiento público del orden Nacional y con autonomía administrativa,\n
+        adscrito al Ministerio del Trabajo.\n
+        \n
+        Contamos con:\n
+        \n
+        ✅Personería jurídica.\n
+        ✅Patrimonio propio e independiente.\n
+        ✅Autonomía administrativa.\n
+        \n
+        Ofrecemos formación gratuita a millones de colombianos que se benefician con \n
+        programas técnicos, tecnológicos y complementarios que enfocados en el desarrollo \n
+        económico, científico y social del país, entran a fortalecer las actividades \n
+        productivas de las empresas y de la industria, para obtener mejor competitividad \n
+        y mayores resultados en los diferentes mercados.\n
+        \n
+        Autorizada por el Estado para invertir en infraestructura necesaria para mejorar \n
+        el desarrollo social y técnico de los trabajadores en las diferentes regiones, a \n
+        través de formación profesional integral que logra incorporarse con las metas del \n
+        Gobierno Nacional, mediante el cubrimiento de las necesidades específicas de \n
+        recurso humano en las empresas. Por medio de la vinculación al mercado laboral \n
+        -bien sea como empleado o subempleado-, con grandes oportunidades para el \n
+        desarrollo empresarial, comunitario y tecnológico.\n
+        \n
+        La Entidad más querida por los colombianos funciona desde su creación en \n
+        permanente alianza entre el Gobierno, los empresarios y los trabajadores, \n
+        con el firme propósito de aumentar la capacidad de progreso en Colombia a \n
+        través del incremento de la productividad en las empresas y regiones, \n
+        sin dejar de lado la inclusión social, alineados con la política \n
+        nacional: Más empleo y menos pobreza. Por tal razón, se generan \n
+        continuamente programas y proyectos de responsabilidad social, \n
+        empresarial, formación, innovación, internacionalización y transferencia \n
+        de conocimientos y tecnologías.\n
+        \n
+        El SENA impulsa el desarrollo tecnológico para que las empresas del \n
+        país sean altamente productivas y competitivas en los mercados globalizados.\n
+    </string>
+    <!--Escudo y Bandera-->
+    <string name="titulo_escudo">Escudo y Bandera</string>
+    <string name="escudo">
+        El escudo y la bandera del SENA, fueron diseñados cuando se fundó nuestra \n
+        institución y reflejan los tres sectores económicos dentro de los cuales operamos:\n
+        \n
+        ✅El piñón, representativo del sector industria.\n
+        ✅El caduceo, asociado al de comercio y servicios.\n
+        ✅El café, ligado al primario y extractivo.\n
+        \n
+    </string>
+    <!--Logosímbolo-->
+    <string name="titulo_logo">Logosímbolo</string>
+    <string name="logo">
+        El logosímbolo representa gráficamente los enfoques de \n
+        la formación que impartimos en la que el individuo es el responsable \n
+        de su propio proceso de aprendizaje.\n
+        \n
+    </string>
+    <!--Historia-->
+    <string name="titulo_historia">Historia</string>
+    <string name="historia">
+        Nacimos en el año 1957, durante el gobierno de la Junta Militar \n
+        -posterior a la renuncia del General Gustavo Rojas Pinilla-. Nuestra función \n
+        fue brindar formación profesional a trabajadores, jóvenes y adultos de la \n
+        industria, el comercio, el campo, la minería y la ganadería. Esta institución \n
+        surgió gracias a Rodolfo Martínez Tono, quién fue su fundador.\n
+        Desde nuestros inicios, siempre buscamos proporcionar instrucción técnica al \n
+        empleado, formación complementaria para adultos, y ayudarles a los empleadores \n
+        y trabajadores a establecer un sistema nacional de aprendizaje.\n
+        Nuestra Entidad que tiene una estructura conformada por trabajadores, \n
+        empleadores y Gobierno, se llamó Servicio Nacional de Aprendizaje (SENA), \n
+        nombre que conserva en la actualidad. Desde ese entonces y hasta ahora, \n
+        buscamos seguir conquistando nuevos mercados, suplimos a las empresas de mano \n
+        calificada utilizando métodos modernos y continuamos trabajando para lograr un \n
+        cambio de paradigma en cada uno de los procesos de la productividad.\n
+        \n
+    </string>
+</resources>

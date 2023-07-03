@@ -1,0 +1,15 @@
+<resources>
+    <!--Ver Más-->
+    <string name="abono">Abono</string>
+    <string name="urea">Urea</string>
+    <string name="tierra">Tierra</string>
+    <string name="miel">Miel de Abejas</string>
+    <string name="cera">Cera de Abejas</string>
+    <string name="pan">Pan</string>
+    <string name="mantecada">Mantecada</string>
+    <string name="achiras">Achiras</string>
+    <string name="panela">Panela</string>
+    <string name="cal">Cal</string>
+    <string name="matababosa">Matababosa</string>
+    <string name="buscar_mas">Buscar productos varios</string>
+</resources>

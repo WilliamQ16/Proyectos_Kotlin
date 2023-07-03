@@ -1,0 +1,14 @@
+<resources>
+    <!--Lacteos-->
+    <string name="leche">Leche</string>
+    <string name="arequipe">Arequipe</string>
+    <string name="queso">Queso</string>
+    <string name="mantequilla">Mantequilla</string>
+    <string name="yogurt">Yogurt</string>
+    <string name="cabra">Leche de Cabra</string>
+    <string name="cuajada">Cuajada</string>
+    <string name="calostro">Calostros</string>
+    <string name="condensada">Leche Condensada</string>
+    <string name="crema">Crema de Leche</string>
+    <string name="buscar_lacteo">Buscar Lacteo</string>
+</resources>

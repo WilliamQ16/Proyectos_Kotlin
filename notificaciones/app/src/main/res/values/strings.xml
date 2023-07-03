@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="canalTienda">CanalTienda</string>
+    <string name="canalNotificacion">Canal de Notificaciones Tienda CBA</string>
+</resources>

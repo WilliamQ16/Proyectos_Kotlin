@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Prototipo</string>
+    <string name="canalTienda">CanalTienda</string>
+    <string name="canalNotificacion">Canal de Notificaciones Tienda CBA</string>
+    <string name="order_products">Pedido SENA CBA</string>
+    <string name="unidad">Unidad</string>
+    <string name="libra">Libra</string>
+    <string name="kilo">Kilo</string>
+    <string name="choose_product">Seleccione Producto</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+    <string name="choose_pickup_date">Elija fecha de entrega</string>
+    <string name="order_summary">Resumen Pedido</string>
+    <string name="send">Enviar Pedido a la App</string>
+    <string name="quantity">Cantidad</string>
+    <string name="product">Producto</string>
+    <string name="pickup_date">Fecha Entrega</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="fecha_pedido">Fecha Pedido: </string>
+    <string name="total_price">Total %s</string>
+    <string name="new_product_order">Nuevo Pedido de Producto CBA</string>
+    <string name="order_details">Cantidad: %1$s \nProducto: %2$s \n
+    Fecha entrega: %3$s \nTotal: %4$s \n\n¡Gracias!</string>
+    <string name="back_button">Atras</string>
+    <plurals name="products">
+        <item quantity="one">%d unidad</item>
+        <item quantity="other">%d unidades</item>
+    </plurals>
+    <string name="pedido_cba">Pedidos CBA</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114529748082",
+    "project_id": "prototipo-jetpackcompose-36de2",
+    "storage_bucket": "prototipo-jetpackcompose-36de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114529748082:android:587ee9e77d1fda0263eeeb",
+        "android_client_info": {
+          "package_name": "com.example.prototipo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114529748082-aiemvb0ch7b5lsj5akf2fap1abk6tsso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prototipo",
+            "certificate_hash": "eb5d5f4f63e4864f282c70c1d61629ef3f6bbb3a"
+          }
+        },
+        {
+          "client_id": "114529748082-n1lkbkkp698erun7g5m0j0vi8mivoat1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WYPCswxoKb_y_3_tj_BAb-LVIJsio9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114529748082-75p9aocf3k7p3esob99gnkclujt33o6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

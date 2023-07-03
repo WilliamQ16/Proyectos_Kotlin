@@ -1,0 +1,23 @@
+<resources>
+    <!--Carnicos-->
+    <string name="cerdo">Carne de Cerdo</string>
+    <string name="res">Carne de Res</string>
+    <string name="pollo">Pollo Completo</string>
+    <string name="pechuga">Pechuga</string>
+    <string name="colombina">Colombina</string>
+    <string name="pernil">Pernil</string>
+    <string name="lomo">Lomo</string>
+    <string name="chicharron">Chicharron</string>
+    <string name="pata">Pata de Cerdo</string>
+    <string name="jamon">Jamón</string>
+    <string name="cabeza">Queso de Cabeza</string>
+    <string name="salchichon">Salchichón</string>
+    <string name="lechon">Lechón</string>
+    <string name="conejo">Conejo</string>
+    <!--Huevos-->
+    <string name="tipoB">Huevos Tipo B</string>
+    <string name="tipoA">Huevos Tipo A</string>
+    <string name="tipoAA">Huevos Tipo AA</string>
+    <string name="tipoAAA">Huevos Tipo AAA</string>
+    <string name="buscar_carnico">Buscar Carnico</string>
+</resources>

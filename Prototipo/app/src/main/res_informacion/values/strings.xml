@@ -1,0 +1,23 @@
+<resources>
+    <!--Contáctenos-->
+    <string name="titulo_contactenos">Contáctenos</string>
+    <string name="contactenos">
+        Dirección General:\n
+            \n
+            ✅Calle 57 No. 8 - 69 Bogotá D.C. (Cundinamarca), \n
+            Colombia
+            \n
+            \n
+        El SENA brinda a la ciudadanía, atención presencial \nen las 33
+        Regionales y 117 Centros de Formación Conozca aquí los puntos
+        de atención:\n
+            \n
+            ✅Línea de atención al ciudadano: Bogotá \n+(57) 601 3430111
+            - Línea gratuita y resto del país 018000 910270\n
+            ✅Línea de atención al empresario: Bogotá \n
+            +(57) 601 3430101 - Línea gratuita y resto del país 018000 910682\n
+            ✅Línea nacional, exclusiva para comunicarse \ncon un servidor
+            público SENA: +(57) 601 5461500\n
+            \n
+    </string>
+</resources>

@@ -1,0 +1,75 @@
+package com.example.prototipo.data
+
+import com.example.prototipo.R
+
+// Listas de productos y cantidades para el sistema de facturación.
+object DataSource {
+    val products = listOf(
+        R.string.girasol,
+        R.string.astromelia,
+        R.string.tulipanes,
+        R.string.clavel,
+        R.string.anturio,
+        R.string.pensamiento,
+        R.string.rosa,
+        R.string.cartucho,
+        R.string.lirio,
+        R.string.papa,
+        R.string.mango,
+        R.string.naranja,
+        R.string.fresa,
+        R.string.limon,
+        R.string.platano,
+        R.string.arveja,
+        R.string.manzana,
+        R.string.arandanos,
+        R.string.frijol,
+        R.string.banano,
+        R.string.cilantro,
+        R.string.leche,
+        R.string.arequipe,
+        R.string.queso,
+        R.string.mantequilla,
+        R.string.yogurt,
+        R.string.cabra,
+        R.string.cuajada,
+        R.string.calostro,
+        R.string.condensada,
+        R.string.crema,
+        R.string.tipoB,
+        R.string.tipoA,
+        R.string.tipoAA,
+        R.string.tipoAAA,
+        R.string.cerdo,
+        R.string.res,
+        R.string.pollo,
+        R.string.pechuga,
+        R.string.colombina,
+        R.string.pernil,
+        R.string.lomo,
+        R.string.chicharron,
+        R.string.pata,
+        R.string.jamon,
+        R.string.cabeza,
+        R.string.salchichon,
+        R.string.lechon,
+        R.string.conejo,
+        R.string.abono,
+        R.string.urea,
+        R.string.tierra,
+        R.string.miel,
+        R.string.cera,
+        R.string.pan,
+        R.string.mantecada,
+        R.string.achiras,
+        R.string.panela,
+        R.string.cal,
+        R.string.matababosa
+    )
+
+    val quantityOptions = listOf(
+        Pair(R.string.unidad, 1),
+        Pair(R.string.libra, 6),
+        Pair(R.string.kilo, 12)
+    )
+}

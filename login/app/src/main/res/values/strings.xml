@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="encabezado">Proyecto_Login</string>
+    <string name="back">Back</string>
+</resources>

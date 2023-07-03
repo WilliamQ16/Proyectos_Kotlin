@@ -1,0 +1,13 @@
+<resources>
+    <!--Flores-->
+    <string name="girasol">Girasol</string>
+    <string name="astromelia">Astromelia</string>
+    <string name="tulipanes">Tulipanes</string>
+    <string name="clavel">Clavel</string>
+    <string name="anturio">Anturio</string>
+    <string name="pensamiento">Pensamiento</string>
+    <string name="rosa">Rosa</string>
+    <string name="cartucho">Cartucho</string>
+    <string name="lirio">Lirio</string>
+    <string name="buscar_flores">Buscar Flores</string>
+</resources>

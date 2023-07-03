@@ -1,0 +1,16 @@
+<resources>
+    <!--Frutas y Verduras-->
+    <string name="papa">Papa Pastusa</string>
+    <string name="mango">Mango</string>
+    <string name="naranja">Naranja</string>
+    <string name="fresa">Fresa</string>
+    <string name="limon">Limón</string>
+    <string name="platano">Platano Maduro</string>
+    <string name="arveja">Arveja</string>
+    <string name="manzana">Manzana</string>
+    <string name="arandanos">Arandanos</string>
+    <string name="frijol">Frijol</string>
+    <string name="banano">Banano</string>
+    <string name="cilantro">Cilantro</string>
+    <string name="buscar_fruta">Buscar fruta o verdura</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <!--items-->
+    <string name="cat1">Carnicos</string>
+    <string name="cat2">Lacteos</string>
+    <string name="cat3">Frutas y Verduras</string>
+    <string name="cat4">Flores</string>
+    <string name="cat5">Más</string>
+    <string name="cat_item">Conoce nuestras categorías</string>
+    <!--favoritos-->
+    <string name="cat_fav">Favoritos</string>
+    <!--populares-->
+    <string name="cat_pop">Populares</string>
+    <!--carnicos-->
+    <string name="cat_carnicos">Carnicos</string>
+    <!--lacteos-->
+    <string name="cat_lacteos">Carnicos</string>
+    <!--frutas y verduras-->
+    <string name="cat_frutas">Frutas y Verduras</string>
+    <!--flores-->
+    <string name="cat_flores">Flores</string>
+    <!--más-->
+    <string name="cat_mas">Productos Varios</string>
+</resources>

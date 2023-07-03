@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cupcake\´s SENA CBA</string>
+    <string name="order_cupcakes">Pedido Cupcakes</string>
+    <string name="one_cupcake">Un Cupcake</string>
+    <string name="six_cupcakes">Seis Cupcakes</string>
+    <string name="twelve_cupcakes">Doce Cupcakes</string>
+    <string name="choose_flavor">Seleccione Sabor</string>
+    <string name="vainilla">Vainilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="arequipe">Arequipe</string>
+    <string name="salted_caramel">Caramelo Salteado</string>
+    <string name="coffee">Cafe</string>
+    <string name="special_flavor">Sabor Especial</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+    <string name="choose_pickup_date">Elija fecha de entrega</string>
+    <string name="order_summary">Resumen Pedido</string>
+    <string name="send">Enviar Pedido a la App</string>
+    <string name="quantity">Cantidad</string>
+    <string name="flavor">Sabor</string>
+    <string name="pickup_date">Fecha Entrega</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="fecha_pedido">Fecha Pedido: </string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Nuevo Pedido de Cupcakes</string>
+    <string name="order_details">Cantidad: %1$s \nSabor: %2$s \n
+    Fecha entrega: %3$s \nTotal: %4$s \n\n¡Gracias!</string>
+    <string name="back_button">Atras</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
