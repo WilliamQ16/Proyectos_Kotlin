@@ -42,7 +42,7 @@ Jetpack Compose es el kit de herramientas moderno de Android para compilar IU na
 -	Intuitiva
 -	Acelera el desarrollo
 -	Potente
--	
+  
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/a9544c31-2695-45cb-acb0-ef9198e58f3e)
 
 Para conocer más de jetpack compose: https://developer.android.com/jetpack/compose?hl=es-419
