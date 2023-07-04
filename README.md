@@ -150,7 +150,7 @@ Para conocer más sobre navegaciones ir al siguiente link: https://developer.and
 El prototipo de tienda virtual en Jetpack Compose está compuesto de todos los proyectos que se mencionan en este documento, la única novedad que tiene es que se puede autenticar usuarios mediante el servicio Google de Firebase Fireauth, ya sea por medio del correo electrónico y contraseña o por el usuario Google que tiene la persona que va a usar el aplicativo, el usuario Google se relaciona con los correos electrónicos que usan el servicio de Gmail.
 Con el paso del tiempo se iran agregando mas funcionalidades a este proyecto Jetpack Compose con la final que este sea un proyecto producto el cual se le pueda ofrecer a un tercero que necesite generar ventas por medios móviles.
 
-Para aprender mas sobre autenticaciones con Jetpack Compose y Firebase Fireauth ir a las siguientes direcciones:
+Para aprender mas sobre autenticaciones con Jetpack Compose y Firebase Fireauth, ir a las siguientes direcciones:
 https://www.youtube.com/watch?v=NFot9_bSFhw
 https://www.youtube.com/watch?v=Z8VEIDoYWfk&t=479s
 
