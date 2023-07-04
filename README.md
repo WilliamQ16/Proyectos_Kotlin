@@ -151,7 +151,9 @@ El prototipo de tienda virtual en Jetpack Compose está compuesto de todos los p
 Con el paso del tiempo se iran agregando mas funcionalidades a este proyecto Jetpack Compose con la final que este sea un proyecto producto el cual se le pueda ofrecer a un tercero que necesite generar ventas por medios móviles.
 
 Para aprender mas sobre autenticaciones con Jetpack Compose y Firebase Fireauth, ir a las siguientes direcciones:
+
 https://www.youtube.com/watch?v=NFot9_bSFhw
+
 https://www.youtube.com/watch?v=Z8VEIDoYWfk&t=479s
 
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/f2bb2efa-b5b1-4dae-b4ab-dee12f4989af)
@@ -164,6 +166,7 @@ https://www.youtube.com/watch?v=Z8VEIDoYWfk&t=479s
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/422a708c-15b8-4150-8373-2c30c84df7a0)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/ed40bea6-339f-429b-bdda-a206aed14261)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/08eb909e-2413-4943-bd83-10b998be9e38)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/cf06f85d-eb02-4f38-a59f-afa0c3a51099)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/df51c131-6c41-4446-a79a-74f7257bef04)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/70d55aac-74dc-4f5c-9fe7-a7f29908564e)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/a8d9161c-0bcc-49f1-8810-b21a158f8e60)
@@ -175,4 +178,4 @@ https://www.youtube.com/watch?v=Z8VEIDoYWfk&t=479s
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/716aa1cd-25c4-48b2-9493-0ab28c64b238)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/327d1b40-e1f1-4886-a423-d2e68d1c35f5)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/3dff3f98-0b3f-4332-9c80-9c9077e0c7f2)
-![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/cf06f85d-eb02-4f38-a59f-afa0c3a51099)
+
