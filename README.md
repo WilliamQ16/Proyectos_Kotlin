@@ -145,3 +145,34 @@ Para conocer más sobre navegaciones ir al siguiente link: https://developer.and
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/85434d57-b0bd-41bf-b2c8-41b8f302f703)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/6919fb09-eb5c-44b5-830b-6b9cf404b020)
 ![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/bc93b10f-84c7-40d7-8e39-6a028a2d4b9d)
+
+### Proyecto final de trimestre
+El prototipo de tienda virtual en Jetpack Compose está compuesto de todos los proyectos que se mencionan en este documento, la única novedad que tiene es que se puede autenticar usuarios mediante el servicio Google de Firebase Fireauth, ya sea por medio del correo electrónico y contraseña o por el usuario Google que tiene la persona que va a usar el aplicativo, el usuario Google se relaciona con los correos electrónicos que usan el servicio de Gmail.
+Con el paso del tiempo se iran agregando mas funcionalidades a este proyecto Jetpack Compose con la final que este sea un proyecto producto el cual se le pueda ofrecer a un tercero que necesite generar ventas por medios móviles.
+
+Para aprender mas sobre autenticaciones con Jetpack Compose y Firebase Fireauth ir a las siguientes direcciones:
+https://www.youtube.com/watch?v=NFot9_bSFhw
+https://www.youtube.com/watch?v=Z8VEIDoYWfk&t=479s
+
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/f2bb2efa-b5b1-4dae-b4ab-dee12f4989af)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/68d6f0b9-7293-4ff0-941a-8cef57e735f7)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/ed9dd4a9-486e-48d6-9d14-431d2effe1f7)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/e4d424bd-199f-4feb-b586-5cd9556340f3)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/d46577a9-f080-44c0-81cb-199e73edae4f)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/4aed4b8b-30af-4f88-b48b-d25f3f1f7f64)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/6a08713b-428b-48d1-80da-7ab431420e09)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/422a708c-15b8-4150-8373-2c30c84df7a0)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/ed40bea6-339f-429b-bdda-a206aed14261)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/08eb909e-2413-4943-bd83-10b998be9e38)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/df51c131-6c41-4446-a79a-74f7257bef04)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/70d55aac-74dc-4f5c-9fe7-a7f29908564e)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/a8d9161c-0bcc-49f1-8810-b21a158f8e60)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/77df33f0-fddc-4ca6-8004-9cb1063f73af)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/52e46add-99b8-4824-b325-c5c8febd3d55)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/be13f0c4-81a5-4ec5-8970-95ee7a5e89fd)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/e66efa8d-aa96-4989-9487-167022f7fa95)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/bb414ba3-a96b-44a1-8f65-3cb6b0c7bb3f)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/716aa1cd-25c4-48b2-9493-0ab28c64b238)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/327d1b40-e1f1-4886-a423-d2e68d1c35f5)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/3dff3f98-0b3f-4332-9c80-9c9077e0c7f2)
+![image](https://github.com/WilliamQ16/Proyectos_Kotlin/assets/110683744/cf06f85d-eb02-4f38-a59f-afa0c3a51099)
